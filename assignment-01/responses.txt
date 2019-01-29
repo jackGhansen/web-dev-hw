@@ -1,0 +1,5 @@
+The Internet is more or less the general notion of networks connecting to other networks while the web is the specific (www.) that you can access Information from.
+You have routers which come with an ID address which links to the router of the internet, network to network I guess, then your router is link to you computer or phone or what have you (Wifi) then you are connected to the server which allows you access.
+ Directory is like a file cabinet, its the structure that contains references to other files. You use the Directory to navigate through files and other files and so on.
+ It is when the files go through many revisions, it's important because then documents can easily be changed. 
+ I didn't know what VCS was, nor how to take a screenshot on my PC haha. Also sing this github site was rather challenging, but something quite new. 
