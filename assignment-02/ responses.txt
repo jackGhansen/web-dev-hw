@@ -1,0 +1,6 @@
+My Response
+
+It travels through severs, data bases.
+is an address assigned to any computer, to identify a network. DNS is the domain name service which is reverence to IP.
+To track website activity.
+Protocol, Domain name and Path 
