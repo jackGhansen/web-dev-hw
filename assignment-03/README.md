@@ -1,4 +1,6 @@
-###heading
+Assignment 3 
+
+Jack G Hansen 
 
 A software program that allows you to access the internet, it uses Java Script and HTML as language.
 
