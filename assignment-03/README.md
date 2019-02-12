@@ -6,5 +6,4 @@ A software program that allows you to access the internet, it uses Java Script a
 
 In computer text processing
 
-web-dev-hw/assignment-03/images/Screenshot (10).png
       
