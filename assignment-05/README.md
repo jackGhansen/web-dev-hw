@@ -1,1 +1,6 @@
-
+<h2> How many document <head> and <body> elements can a page have? How are these elements different, or what role do they play? <h2>
+<h4> You could have one or many, as long as the code is correct you could have many headers and many paragraphs. The "headers" are not seen by people visting your site, it is mainly for the "code". To make it even possible to have something on a screen and for people to know what the text is "coders". There roles are simply to make something appear, without the code, nothing would exsit. <h4>
+<h2> Describe the difference between structural and semantic markup? <h2>
+<h4> Semantic markup is the Header and Paragraph, it indicates enclosed text. Then the browser knows how to display them. Structural Markup is give information about the structure of a document. Such as appearance, titles, sections and other things that deal with the structure of a document. <h4>
+<h2>  Free Response: Summarize your work cycle for this assignment. <h2> 
+<h4> My work cycle since I am not very good at this, Picked a very easy recipe, such as Egg Salad. I then pretty much bounce around atom previewing my page to see if the code worked, then I make corrections there, I look through walkthroughs or vist pervious exercises to re brush on what we learned early. Its very stressfull process and mostly confusion, but I keep working till I get it, which is very satisfiing once I get it. I actually feel like I did something, it might of took me 6 hours, but I got it, or at least close. 
