@@ -1,0 +1,30 @@
+/* Elements */
+body {
+  text-align:center;
+  background-size: cover;
+  background-color: white;
+  background-image: url("../images/alanwatts1.jpg");
+  background-repeat: repeat;
+  color: white;
+  font-family: sans-serif;
+  font-size: 23;
+}
+h1 {
+  font-family: Times;
+  color: black;
+  font-size: 7px;
+  text-align: right;
+}
+p {
+  font-family: Times;
+  text-align: center;
+  color: white;
+}
+
+/* Classes */
+.centered {
+  position: absolute;
+  top: 33%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
