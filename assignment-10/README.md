@@ -1,0 +1,5 @@
+13. I went with Times and Sans-serif, just because they were simple fonts and I didnt want to distract the reader by having crazy, unique fonts. The fonts I chose were striaght to the point and are of basic everday use, much like Alan Watts teaching, simple. 
+
+14. A system Font is fonts already programmed into the software, such as the fonts found on Word or Adobe progarams, they are the basic fonts that you will recive when using the program or system. Web Font unlike system font are coustom, uniquely made, however work with web like System fonts, however not all do, these fonts will either work or not be combatible with the webs programing "not regonize it". Its good to have fallback fonts just in the case of your fonts not working with the web, building a stack of fonts that are comabatle with the web is a safe way to, if ever in a pinch you can easily go back to your group of fonts that do work. 
+
+15. As always, trail Error, looking over my past and seeing what worked and what didnt, this is alot of infromation to attain, so having refreshes certianly helps with the process also to find patterns in past work to build this new project. 
