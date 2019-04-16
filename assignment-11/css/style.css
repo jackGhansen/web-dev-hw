@@ -1,0 +1,28 @@
+body {
+  text-align: right;
+  background-size: cover;
+  background-color: white;
+  background-repeat: repeat;
+  color: white;
+  font-family: sans-serif;
+  font-size: 150;
+}
+h4 {
+  font-family: Times;
+  color: black;
+  font-size: 33px;
+  text-align: right;
+}
+p {
+  font-family: Times;
+  text-align: top;
+  color: black;
+}
+
+/* Classes */
+.centered {
+  position: absolute;
+  top: 33%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+}
